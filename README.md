@@ -37,10 +37,12 @@ Sistema em Java que simula uma loja online com usuários, produtos e vendas. O p
 
     Usuario --> Venda
     Venda --> ItemVenda
-    ItemVenda --> Produto```
+    ItemVenda --> Produto
+```
 
 
 ## 🚀 Como rodar
 ```bash
 javac Main.java
 java Main
+```
