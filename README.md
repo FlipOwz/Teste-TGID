@@ -43,6 +43,6 @@ Sistema em Java que simula uma loja online com usuários, produtos e vendas. O p
 
 ## 🚀 Como rodar
 ```bash
-javac Main.java
-java Main
+javac Loja/*.java
+java Loja.Main
 ```
